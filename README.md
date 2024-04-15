@@ -12,6 +12,8 @@
 - `data.ipynb` - Jupyter notebook containing the code for data preprocessing.
 - `fused_model_main.ipynb` - Jupyter notebook containing the code for the fused model, the proposed model from this project.
 - `hyperparameter_*.ipynb` - Jupyter notebooks containing the code for hyperparameter tuning of the models.
+- `requirements.txt` - Contains the required dependencies for the project.
+- `*.pt` - Contains the trained models.
 
 ## Running the code:
 1. Download the data used for training and testing the models from the following link: https://entuedu-my.sharepoint.com/:u:/g/personal/kristiya001_e_ntu_edu_sg/EfZGKzUHznJHmHPrR8G96sABZUSOtPDlKB7eUCAxgENLWA?e=Vc8bmP
