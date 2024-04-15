@@ -1,0 +1,2 @@
+The IDs in both files are the same.
+Word Error Rate:  0.15302905832680588
